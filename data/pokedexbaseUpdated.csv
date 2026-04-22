@@ -1,0 +1,1237 @@
+"National
+Dex","Pokemon
+Name",Type,Type I,Type II,Gen,Pag,Posición
+1,Bulbasaur,Starter,Grass,Poison,Gen 1,1,1
+2,Ivysaur,Starter,Grass,Poison,Gen 1,1,2
+3,Venusaur,Starter,Grass,Poison,Gen 1,1,3
+"3,1",Venusaur (Mega),"Starter, Mega Evolution",Grass,Poison,Gen 1,1,4
+4,Charmander,Starter,Fire,,Gen 1,1,5
+5,Charmeleon,Starter,Fire,,Gen 1,1,6
+6,Charizard,Starter,Fire,Flying,Gen 1,1,7
+"6,1",Charizard (Mega X),"Starter, Mega Evolution",Fire,Dragon,Gen 1,1,8
+"6,2",Charizard (Mega Y),"Starter, Mega Evolution",Fire,Flying,Gen 1,1,9
+7,Squirtle,Starter,Water,,Gen 1,1,10
+8,Wartortle,Starter,Water,,Gen 1,1,11
+9,Blastoise,Starter,Water,,Gen 1,1,12
+"9,1",Blastoise (Mega),"Starter, Mega Evolution",Water,,Gen 1,2,1
+10,Caterpie,,Bug,,Gen 1,2,2
+11,Metapod,,Bug,,Gen 1,2,3
+12,Butterfree,,Bug,Flying,Gen 1,2,4
+13,Weedle,,Bug,Poison,Gen 1,2,5
+14,Kakuna,,Bug,Poison,Gen 1,2,6
+15,Beedrill,,Bug,Poison,Gen 1,2,7
+"15,1",Beedrill (Mega),Mega Evolution,Bug,Poison,Gen 1,2,8
+16,Pidgey,,Normal,Flying,Gen 1,2,9
+17,Pidgeotto,,Normal,Flying,Gen 1,2,10
+18,Pidgeot,,Normal,Flying,Gen 1,2,11
+"18,1",Pidgeot (Mega),Mega Evolution,Normal,Flying,Gen 1,2,12
+19,Rattata,,Normal,,Gen 1,3,1
+"19,1",Rattata (Alolan),Alolan Form,Dark,Normal,Gen 1,3,2
+20,Raticate,,Normal,,Gen 1,3,3
+"20,1",Raticate (Alolan),Alolan Form,Dark,Normal,Gen 1,3,4
+21,Spearow,,Normal,Flying,Gen 1,3,5
+22,Fearow,,Normal,Flying,Gen 1,3,6
+23,Ekans,,Poison,,Gen 1,3,7
+24,Arbok,,Poison,,Gen 1,3,8
+25,Pikachu,,Electric,,Gen 1,3,9
+26,Raichu,,Electric,,Gen 1,3,10
+"26,1",Raichu (Alolan),Alolan Form,Electric,Psychic,Gen 1,3,11
+27,Sandshrew,,Ground,,Gen 1,3,12
+"27,1",Sandshrew (Alolan),Alolan Form,Ice,Steel,Gen 1,4,1
+28,Sandslash,,Ground,,Gen 1,4,2
+"28,1",Sandslash (Alolan),Alolan Form,Ice,Steel,Gen 1,4,3
+29,Nidoran (Female),,Poison,,Gen 1,4,4
+30,Nidorina,,Poison,,Gen 1,4,5
+31,Nidoqueen,,Poison,Ground,Gen 1,4,6
+32,Nidoran (Male),,Poison,,Gen 1,4,7
+33,Nidorino,,Poison,,Gen 1,4,8
+34,Nidoking,,Poison,Ground,Gen 1,4,9
+35,Clefairy,,Fairy,,Gen 1,4,10
+36,Clefable,,Fairy,,Gen 1,4,11
+37,Vulpix,,Fire,,Gen 1,4,12
+"37,1",Vulpix (Alolan),Alolan Form,Ice,,Gen 1,5,1
+38,Ninetales,,Fire,,Gen 1,5,2
+"38,1",Ninetales (Alolan),Alolan Form,Ice,Fairy,Gen 1,5,3
+39,Jigglypuff,,Normal,Fairy,Gen 1,5,4
+40,Wigglytuff,,Normal,Fairy,Gen 1,5,5
+41,Zubat,,Poison,Flying,Gen 1,5,6
+42,Golbat,,Poison,Flying,Gen 1,5,7
+43,Oddish,,Grass,Poison,Gen 1,5,8
+44,Gloom,,Grass,Poison,Gen 1,5,9
+45,Vileplume,,Grass,Poison,Gen 1,5,10
+46,Paras,,Bug,Grass,Gen 1,5,11
+47,Parasect,,Bug,Grass,Gen 1,5,12
+48,Venonat,,Bug,Poison,Gen 1,6,1
+49,Venomoth,,Bug,Poison,Gen 1,6,2
+50,Diglett,,Ground,,Gen 1,6,3
+"50,1",Diglett (Alolan),Alolan Form,Ground,Steel,Gen 1,6,4
+51,Dugtrio,,Ground,,Gen 1,6,5
+"51,1",Dugtrio (Alolan),Alolan Form,Ground,Steel,Gen 1,6,6
+52,Meowth,,Normal,,Gen 1,6,7
+"52,1",Meowth (Alolan),Alolan Form,Dark,,Gen 1,6,8
+"52,2",Meowth (Galarian),Galarian Form,Steel,,Gen 1,6,9
+53,Persian,,Normal,,Gen 1,6,10
+"53,1",Persian (Alolan),Alolan Form,Dark,,Gen 1,6,11
+54,Psyduck,,Water,,Gen 1,6,12
+55,Golduck,,Water,,Gen 1,7,1
+56,Mankey,,Fighting,,Gen 1,7,2
+57,Primeape,,Fighting,,Gen 1,7,3
+58,Growlithe,,Fire,,Gen 1,7,4
+"58,1",Growlithe (Hisuian),Hisuian Form,Fire,Rock,Gen 1,7,5
+59,Arcanine,,Fire,,Gen 1,7,6
+"59,1",Arcanine (Hisuian),Hisuian Form,Fire,Rock,Gen 1,7,7
+60,Poliwag,,Water,,Gen 1,7,8
+61,Poliwhirl,,Water,,Gen 1,7,9
+62,Poliwrath,,Water,Fighting,Gen 1,7,10
+63,Abra,,Psychic,,Gen 1,7,11
+64,Kadabra,,Psychic,,Gen 1,7,12
+65,Alakazam,,Psychic,,Gen 1,8,1
+"65,1",Alakazam (Mega),Mega Evolution,Psychic,,Gen 1,8,2
+66,Machop,,Fighting,,Gen 1,8,3
+67,Machoke,,Fighting,,Gen 1,8,4
+68,Machamp,,Fighting,,Gen 1,8,5
+69,Bellsprout,,Grass,Poison,Gen 1,8,6
+70,Weepinbell,,Grass,Poison,Gen 1,8,7
+71,Victreebel,,Grass,Poison,Gen 1,8,8
+72,Tentacool,,Water,Poison,Gen 1,8,9
+73,Tentacruel,,Water,Poison,Gen 1,8,10
+74,Geodude,,Rock,Ground,Gen 1,8,11
+"74,1",Geodude (Alolan),Alolan Form,Rock,Electric,Gen 1,8,12
+75,Graveler,,Rock,Ground,Gen 1,9,1
+"75,1",Graveler (Alolan),Alolan Form,Rock,Electric,Gen 1,9,2
+76,Golem,,Rock,Ground,Gen 1,9,3
+"76,1",Golem (Alolan),Alolan Form,Rock,Electric,Gen 1,9,4
+77,Ponyta,,Fire,,Gen 1,9,5
+"77,1",Ponyta (Galarian),Galarian Form,Psychic,,Gen 1,9,6
+78,Rapidash,,Fire,,Gen 1,9,7
+"78,1",Rapidash (Galarian),Galarian Form,Psychic,Fairy,Gen 1,9,8
+79,Slowpoke,,Water,Psychic,Gen 1,9,9
+"79,1",Slowpoke (Galarian),Galarian Form,Psychic,,Gen 1,9,10
+80,Slowbro,,Water,Psychic,Gen 1,9,11
+"80,1",Slowbro (Mega),Mega Evolution,Water,Psychic,Gen 1,9,12
+"80,2",Slowbro (Galarian),Galarian Form,Poison,Psychic,Gen 1,10,1
+81,Magnemite,,Electric,Steel,Gen 1,10,2
+82,Magneton,,Electric,Steel,Gen 1,10,3
+83,Farfetch'd,,Normal,Flying,Gen 1,10,4
+"83,1",Farfetch'd (Galarian),Galarian Form,Fighting,,Gen 1,10,5
+84,Doduo,,Normal,Flying,Gen 1,10,6
+85,Dodrio,,Normal,Flying,Gen 1,10,7
+86,Seel,,Water,,Gen 1,10,8
+87,Dewgong,,Water,Ice,Gen 1,10,9
+88,Grimer,,Poison,,Gen 1,10,10
+"88,1",Grimer (Alolan),Alolan Form,Poison,Dark,Gen 1,10,11
+89,Muk,,Poison,,Gen 1,10,12
+"89,1",Muk (Alolan),Alolan Form,Poison,Dark,Gen 1,11,1
+90,Shellder,,Water,,Gen 1,11,2
+91,Cloyster,,Water,Ice,Gen 1,11,3
+92,Gastly,,Ghost,Poison,Gen 1,11,4
+93,Haunter,,Ghost,Poison,Gen 1,11,5
+94,Gengar,,Ghost,Poison,Gen 1,11,6
+"94,1",Gengar (Mega),Mega Evolution,Ghost,Poison,Gen 1,11,7
+95,Onix,,Rock,Ground,Gen 1,11,8
+96,Drowzee,,Psychic,,Gen 1,11,9
+97,Hypno,,Psychic,,Gen 1,11,10
+98,Krabby,,Water,,Gen 1,11,11
+99,Kingler,,Water,,Gen 1,11,12
+100,Voltorb,,Electric,,Gen 1,12,1
+"100,1",Voltorb (Hisuian),Hisuian Form,Electric,Grass,Gen 1,12,2
+101,Electrode,,Electric,,Gen 1,12,3
+"101,1",Electrode (Hisuian),Hisuian Form,Electric,Grass,Gen 1,12,4
+102,Exeggcute,,Grass,Psychic,Gen 1,12,5
+103,Exeggutor,,Grass,Psychic,Gen 1,12,6
+"103,1",Exeggutor (Alolan),Alolan Form,Grass,Dragon,Gen 1,12,7
+104,Cubone,,Ground,,Gen 1,12,8
+105,Marowak,,Ground,,Gen 1,12,9
+"105,1",Marowak (Alolan),Alolan Form,Fire,Ghost,Gen 1,12,10
+106,Hitmonlee,,Fighting,,Gen 1,12,11
+107,Hitmonchan,,Fighting,,Gen 1,12,12
+108,Lickitung,,Normal,,Gen 1,13,1
+109,Koffing,,Poison,,Gen 1,13,2
+110,Weezing,,Poison,,Gen 1,13,3
+"110,1",Weezing (Galarian),Galarian Form,Poison,Fairy,Gen 1,13,4
+111,Rhyhorn,,Ground,Rock,Gen 1,13,5
+112,Rhydon,,Ground,Rock,Gen 1,13,6
+113,Chansey,,Normal,,Gen 1,13,7
+114,Tangela,,Grass,,Gen 1,13,8
+115,Kangaskhan,,Normal,,Gen 1,13,9
+"115,1",Kangaskhan (Mega),Mega Evolution,Normal,,Gen 1,13,10
+116,Horsea,,Water,,Gen 1,13,11
+117,Seadra,,Water,,Gen 1,13,12
+118,Goldeen,,Water,,Gen 1,14,1
+119,Seaking,,Water,,Gen 1,14,2
+120,Staryu,,Water,,Gen 1,14,3
+121,Starmie,,Water,Psychic,Gen 1,14,4
+122,Mr. Mime,,Psychic,Fairy,Gen 1,14,5
+"122,1",Mr. Mime (Galarian),Galarian Form,Ice,Psychic,Gen 1,14,6
+123,Scyther,,Bug,Flying,Gen 1,14,7
+124,Jynx,,Ice,Psychic,Gen 1,14,8
+125,Electabuzz,,Electric,,Gen 1,14,9
+126,Magmar,,Fire,,Gen 1,14,10
+127,Pinsir,,Bug,,Gen 1,14,11
+"127,1",Pinsir (Mega),Mega Evolution,Bug,Flying,Gen 1,14,12
+128,Tauros,,Normal,,Gen 1,15,1
+"128,1","Tauros (Paldean, Combat)",Paldean Form,Fighting,,Gen 1,15,2
+"128,2","Tauros (Paldean, Blaze)",Paldean Form,Fighting,Fire,Gen 1,15,3
+"128,3","Tauros (Paldean, Aqua)",Paldean Form,Fighting,Water,Gen 1,15,4
+129,Magikarp,,Water,,Gen 1,15,5
+130,Gyarados,,Water,Flying,Gen 1,15,6
+"130,1",Gyarados (Mega),Mega Evolution,Water,Dark,Gen 1,15,7
+131,Lapras,,Water,Ice,Gen 1,15,8
+132,Ditto,,Normal,,Gen 1,15,9
+133,Eevee,,Normal,,Gen 1,15,10
+134,Vaporeon,Eeveelution,Water,,Gen 1,15,11
+135,Jolteon,Eeveelution,Electric,,Gen 1,15,12
+136,Flareon,Eeveelution,Fire,,Gen 1,16,1
+137,Porygon,,Normal,,Gen 1,16,2
+138,Omanyte,Fossil,Rock,Water,Gen 1,16,3
+139,Omastar,Fossil,Rock,Water,Gen 1,16,4
+140,Kabuto,Fossil,Rock,Water,Gen 1,16,5
+141,Kabutops,Fossil,Rock,Water,Gen 1,16,6
+142,Aerodactyl,Fossil,Rock,Flying,Gen 1,16,7
+"142,1",Aerodactyl (Mega),Mega Evolution,Rock,Flying,Gen 1,16,8
+143,Snorlax,,Normal,,Gen 1,16,9
+144,Articuno,Sub-Legendary,Ice,Flying,Gen 1,16,10
+"144,1",Articuno (Galarian),"Sub-Legendary, Galarian Form",Psychic,Flying,Gen 1,16,11
+145,Zapdos,Sub-Legendary,Electric,Flying,Gen 1,16,12
+"145,1",Zapdos (Galarian),"Sub-Legendary, Galarian Form",Fighting,Flying,Gen 1,17,1
+146,Moltres,Sub-Legendary,Fire,Flying,Gen 1,17,2
+"146,1",Moltres (Galarian),"Sub-Legendary, Galarian Form",Dark,Flying,Gen 1,17,3
+147,Dratini,Pseudo Legendary,Dragon,,Gen 1,17,4
+148,Dragonair,Pseudo Legendary,Dragon,,Gen 1,17,5
+149,Dragonite,Pseudo Legendary,Dragon,Flying,Gen 1,17,6
+150,Mewtwo,Legendary,Psychic,,Gen 1,17,7
+"150,1",Mewtwo (Mega X),"Legendary, Mega Evolution",Psychic,Fighting,Gen 1,17,8
+"150,2",Mewtwo (Mega Y),"Legendary, Mega Evolution",Psychic,,Gen 1,17,9
+151,Mew,Mythical,Psychic,,Gen 1,17,10
+152,Chikorita,Starter,Grass,,Gen 2,17,11
+153,Bayleef,Starter,Grass,,Gen 2,17,12
+154,Meganium,Starter,Grass,,Gen 2,18,1
+155,Cyndaquil,Starter,Fire,,Gen 2,18,2
+156,Quilava,Starter,Fire,,Gen 2,18,3
+157,Typhlosion,Starter,Fire,,Gen 2,18,4
+"157,1",Typhlosion (Hisuian),"Starter, Hisuian Variant",Fire,Ghost,Gen 2,18,5
+158,Totodile,Starter,Water,,Gen 2,18,6
+159,Croconaw,Starter,Water,,Gen 2,18,7
+160,Feraligatr,Starter,Water,,Gen 2,18,8
+161,Sentret,,Normal,,Gen 2,18,9
+162,Furret,,Normal,,Gen 2,18,10
+163,Hoothoot,,Normal,Flying,Gen 2,18,11
+164,Noctowl,,Normal,Flying,Gen 2,18,12
+165,Ledyba,,Bug,Flying,Gen 2,19,1
+166,Ledian,,Bug,Flying,Gen 2,19,2
+167,Spinarak,,Bug,Poison,Gen 2,19,3
+168,Ariados,,Bug,Poison,Gen 2,19,4
+169,Crobat,,Poison,Flying,Gen 2,19,5
+170,Chinchou,,Water,Electric,Gen 2,19,6
+171,Lanturn,,Water,Electric,Gen 2,19,7
+172,Pichu,Baby,Electric,,Gen 2,19,8
+173,Cleffa,Baby,Fairy,,Gen 2,19,9
+174,Igglybuff,Baby,Normal,Fairy,Gen 2,19,10
+175,Togepi,Baby,Fairy,,Gen 2,19,11
+176,Togetic,,Fairy,Flying,Gen 2,19,12
+177,Natu,,Psychic,Flying,Gen 2,20,1
+178,Xatu,,Psychic,Flying,Gen 2,20,2
+179,Mareep,,Electric,,Gen 2,20,3
+180,Flaaffy,,Electric,,Gen 2,20,4
+181,Ampharos,,Electric,,Gen 2,20,5
+"181,1",Ampharos (Mega),Mega Evolution,Electric,Dragon,Gen 2,20,6
+182,Bellossom,,Grass,,Gen 2,20,7
+183,Marill,,Water,Fairy,Gen 2,20,8
+184,Azumarill,,Water,Fairy,Gen 2,20,9
+185,Sudowoodo,,Rock,,Gen 2,20,10
+186,Politoed,,Water,,Gen 2,20,11
+187,Hoppip,,Grass,Flying,Gen 2,20,12
+188,Skiploom,,Grass,Flying,Gen 2,21,1
+189,Jumpluff,,Grass,Flying,Gen 2,21,2
+190,Aipom,,Normal,,Gen 2,21,3
+191,Sunkern,,Grass,,Gen 2,21,4
+192,Sunflora,,Grass,,Gen 2,21,5
+193,Yanma,,Bug,Flying,Gen 2,21,6
+194,Wooper,,Water,Ground,Gen 2,21,7
+"194,1",Wooper (Paldean),Paldean Form,Poison,Ground,Gen 2,21,8
+195,Quagsire,,Water,Ground,Gen 2,21,9
+196,Espeon,Eeveelution,Psychic,,Gen 2,21,10
+197,Umbreon,Eeveelution,Dark,,Gen 2,21,11
+198,Murkrow,,Dark,Flying,Gen 2,21,12
+199,Slowking,,Water,Psychic,Gen 2,22,1
+"199,1",Slowking (Galarian),Galarian Form,Poison,Psychic,Gen 2,22,2
+200,Misdreavus,,Ghost,,Gen 2,22,3
+201,Unown,,Psychic,,Gen 2,22,4
+202,Wobbuffet,,Psychic,,Gen 2,22,5
+203,Girafarig,,Normal,Psychic,Gen 2,22,6
+204,Pineco,,Bug,,Gen 2,22,7
+205,Forretress,,Bug,Steel,Gen 2,22,8
+206,Dunsparce,,Normal,,Gen 2,22,9
+207,Gligar,,Ground,Flying,Gen 2,22,10
+208,Steelix,,Steel,Ground,Gen 2,22,11
+"208,1",Steelix (Mega),Mega Evolution,Steel,Ground,Gen 2,22,12
+209,Snubbull,,Fairy,,Gen 2,23,1
+210,Granbull,,Fairy,,Gen 2,23,2
+211,Qwilfish,,Water,Poison,Gen 2,23,3
+"211,1",Qwilfish (Hisuian),Hisuian Form,Dark,Poison,Gen 2,23,4
+212,Scizor,,Bug,Steel,Gen 2,23,5
+"212,1",Scizor (Mega),Mega Evolution,Bug,Steel,Gen 2,23,6
+213,Shuckle,,Bug,Rock,Gen 2,23,7
+214,Heracross,,Bug,Fighting,Gen 2,23,8
+"214,1",Heracross (Mega),Mega Evolution,Bug,Fighting,Gen 2,23,9
+215,Sneasel,,Dark,Ice,Gen 2,23,10
+"215,1",Sneasel (Hisuian),Hisuian Form,Fighting,Poison,Gen 2,23,11
+216,Teddiursa,,Normal,,Gen 2,23,12
+217,Ursaring,,Normal,,Gen 2,24,1
+218,Slugma,,Fire,,Gen 2,24,2
+219,Magcargo,,Fire,Rock,Gen 2,24,3
+220,Swinub,,Ice,Ground,Gen 2,24,4
+221,Piloswine,,Ice,Ground,Gen 2,24,5
+222,Corsola,,Water,Rock,Gen 2,24,6
+"222,1",Corsola (Galarian),Galarian Form,Ghost,,Gen 2,24,7
+223,Remoraid,,Water,,Gen 2,24,8
+224,Octillery,,Water,,Gen 2,24,9
+225,Delibird,,Ice,Flying,Gen 2,24,10
+226,Mantine,,Water,Flying,Gen 2,24,11
+227,Skarmory,,Steel,Flying,Gen 2,24,12
+228,Houndour,,Dark,Fire,Gen 2,25,1
+229,Houndoom,,Dark,Fire,Gen 2,25,2
+"229,1",Houndoom (Mega),Mega Evolution,Dark,Fire,Gen 2,25,3
+230,Kingdra,,Water,Dragon,Gen 2,25,4
+231,Phanpy,,Ground,,Gen 2,25,5
+232,Donphan,,Ground,,Gen 2,25,6
+233,Porygon2,,Normal,,Gen 2,25,7
+234,Stantler,,Normal,,Gen 2,25,8
+235,Smeargle,,Normal,,Gen 2,25,9
+236,Tyrogue,Baby,Fighting,,Gen 2,25,10
+237,Hitmontop,,Fighting,,Gen 2,25,11
+238,Smoochum,Baby,Ice,Psychic,Gen 2,25,12
+239,Elekid,Baby,Electric,,Gen 2,26,1
+240,Magby,Baby,Fire,,Gen 2,26,2
+241,Miltank,,Normal,,Gen 2,26,3
+242,Blissey,,Normal,,Gen 2,26,4
+243,Raikou,Sub-Legendary,Electric,,Gen 2,26,5
+244,Entei,Sub-Legendary,Fire,,Gen 2,26,6
+245,Suicune,Sub-Legendary,Water,,Gen 2,26,7
+246,Larvitar,Pseudo Legendary,Rock,Ground,Gen 2,26,8
+247,Pupitar,Pseudo Legendary,Rock,Ground,Gen 2,26,9
+248,Tyranitar,Pseudo Legendary,Rock,Dark,Gen 2,26,10
+"248,1",Tyranitar (Mega),"Psuedo Legendary, Mega Evolution",Rock,Dark,Gen 2,26,11
+249,Lugia,Legendary,Psychic,Flying,Gen 2,26,12
+250,Ho-oh,Legendary,Fire,Flying,Gen 2,27,1
+251,Celebi,Mythical,Psychic,Grass,Gen 2,27,2
+252,Treecko,Starter,Grass,,Gen 3,27,3
+253,Grovyle,Starter,Grass,,Gen 3,27,4
+254,Sceptile,Starter,Grass,,Gen 3,27,5
+"254,1",Sceptile (Mega),"Starter, Mega Evolution",Grass,Dragon,Gen 3,27,6
+255,Torchic,Starter,Fire,,Gen 3,27,7
+256,Combusken,Starter,Fire,Fighting,Gen 3,27,8
+257,Blaziken,Starter,Fire,Fighting,Gen 3,27,9
+"257,1",Blaziken (Mega),"Starter, Mega Evolution",Fire,Fighting,Gen 3,27,10
+258,Mudkip,Starter,Water,,Gen 3,27,11
+259,Marshtomp,Starter,Water,Ground,Gen 3,27,12
+260,Swampert,Starter,Water,Ground,Gen 3,28,1
+"260,1",Swampert (Mega),"Starter, Mega Evolution",Water,Ground,Gen 3,28,2
+261,Poochyena,,Dark,,Gen 3,28,3
+262,Mightyena,,Dark,,Gen 3,28,4
+263,Zigzagoon,,Normal,,Gen 3,28,5
+"263,1",Zigzagoon (Galarian),Galarian Form,Dark,Normal,Gen 3,28,6
+264,Linoone,,Normal,,Gen 3,28,7
+"264,1",Linoone (Galarian),Galarian Form,Dark,Normal,Gen 3,28,8
+265,Wurmple,,Bug,,Gen 3,28,9
+266,Silcoon,,Bug,,Gen 3,28,10
+267,Beautifly,,Bug,Flying,Gen 3,28,11
+268,Cascoon,,Bug,,Gen 3,28,12
+269,Dustox,,Bug,Poison,Gen 3,29,1
+270,Lotad,,Water,Grass,Gen 3,29,2
+271,Lombre,,Water,Grass,Gen 3,29,3
+272,Ludicolo,,Water,Grass,Gen 3,29,4
+273,Seedot,,Grass,,Gen 3,29,5
+274,Nuzleaf,,Grass,Dark,Gen 3,29,6
+275,Shiftry,,Grass,Dark,Gen 3,29,7
+276,Taillow,,Normal,Flying,Gen 3,29,8
+277,Swellow,,Normal,Flying,Gen 3,29,9
+278,Wingull,,Water,Flying,Gen 3,29,10
+279,Pelipper,,Water,Flying,Gen 3,29,11
+280,Ralts,,Psychic,Fairy,Gen 3,29,12
+281,Kirlia,,Psychic,Fairy,Gen 3,30,1
+282,Gardevoir,,Psychic,Fairy,Gen 3,30,2
+"282,1",Gardevoir (Mega),Mega Evolution,Psychic,Fairy,Gen 3,30,3
+283,Surskit,,Bug,Water,Gen 3,30,4
+284,Masquerain,,Bug,Flying,Gen 3,30,5
+285,Shroomish,,Grass,,Gen 3,30,6
+286,Breloom,,Grass,Fighting,Gen 3,30,7
+287,Slakoth,,Normal,,Gen 3,30,8
+288,Vigoroth,,Normal,,Gen 3,30,9
+289,Slaking,,Normal,,Gen 3,30,10
+290,Nincada,,Bug,Ground,Gen 3,30,11
+291,Ninjask,,Bug,Flying,Gen 3,30,12
+292,Shedinja,,Bug,Ghost,Gen 3,31,1
+293,Whismur,,Normal,,Gen 3,31,2
+294,Loudred,,Normal,,Gen 3,31,3
+295,Exploud,,Normal,,Gen 3,31,4
+296,Makuhita,,Fighting,,Gen 3,31,5
+297,Hariyama,,Fighting,,Gen 3,31,6
+298,Azurill,Baby,Normal,Fairy,Gen 3,31,7
+299,Nosepass,,Rock,,Gen 3,31,8
+300,Skitty,,Normal,,Gen 3,31,9
+301,Delcatty,,Normal,,Gen 3,31,10
+302,Sableye,,Dark,Ghost,Gen 3,31,11
+"302,1",Sableye (Mega),Mega Evolution,Dark,Ghost,Gen 3,31,12
+303,Mawile,,Steel,Fairy,Gen 3,32,1
+"303,1",Mawile (Mega),Mega Evolution,Steel,Fairy,Gen 3,32,2
+304,Aron,,Steel,Rock,Gen 3,32,3
+305,Lairon,,Steel,Rock,Gen 3,32,4
+306,Aggron,,Steel,Rock,Gen 3,32,5
+"306,1",Aggron (Mega),Mega Evolution,Steel,,Gen 3,32,6
+307,Meditite,,Fighting,Psychic,Gen 3,32,7
+308,Medicham,,Fighting,Psychic,Gen 3,32,8
+"308,1",Medicham (Mega),Mega Evolution,Fighting,Psychic,Gen 3,32,9
+309,Electrike,,Electric,,Gen 3,32,10
+310,Manectric,,Electric,,Gen 3,32,11
+"310,1",Manetric (Mega),Mega Evolution,Electric,,Gen 3,32,12
+311,Plusle,,Electric,,Gen 3,33,1
+312,Minun,,Electric,,Gen 3,33,2
+313,Volbeat,,Bug,,Gen 3,33,3
+314,Illumise,,Bug,,Gen 3,33,4
+315,Roselia,,Grass,Poison,Gen 3,33,5
+316,Gulpin,,Poison,,Gen 3,33,6
+317,Swalot,,Poison,,Gen 3,33,7
+318,Carvanha,,Water,Dark,Gen 3,33,8
+319,Sharpedo,,Water,Dark,Gen 3,33,9
+"319,1",Sharpedo (Mega),Mega Evolution,Water,Dark,Gen 3,33,10
+320,Wailmer,,Water,,Gen 3,33,11
+321,Wailord,,Water,,Gen 3,33,12
+322,Numel,,Fire,Ground,Gen 3,34,1
+323,Camerupt,,Fire,Ground,Gen 3,34,2
+"323,1",Camerupt (Mega),Mega Evolution,Fire,Ground,Gen 3,34,3
+324,Torkoal,,Fire,,Gen 3,34,4
+325,Spoink,,Psychic,,Gen 3,34,5
+326,Grumpig,,Psychic,,Gen 3,34,6
+327,Spinda,,Normal,,Gen 3,34,7
+328,Trapinch,,Ground,,Gen 3,34,8
+329,Vibraba,,Ground,Dragon,Gen 3,34,9
+330,Flygon,,Ground,Dragon,Gen 3,34,10
+331,Cacnea,,Grass,,Gen 3,34,11
+332,Cacturne,,Grass,Dark,Gen 3,34,12
+333,Swablu,,Normal,Flying,Gen 3,35,1
+334,Altaria,,Dragon,Flying,Gen 3,35,2
+"334,1",Altaria (Mega),Mega Evolution,Dragon,Fairy,Gen 3,35,3
+335,Zangoose,,Normal,,Gen 3,35,4
+336,Seviper,,Poison,,Gen 3,35,5
+337,Lunatone,,Rock,Psychic,Gen 3,35,6
+338,Solrock,,Rock,Psychic,Gen 3,35,7
+339,Barboach,,Water,Ground,Gen 3,35,8
+340,Whiscash,,Water,Ground,Gen 3,35,9
+341,Corphish,,Water,,Gen 3,35,10
+342,Crawdaunt,,Water,Dark,Gen 3,35,11
+343,Baltoy,,Ground,Psychic,Gen 3,35,12
+344,Claydol,,Ground,Psychic,Gen 3,36,1
+345,Lileep,Fossil,Rock,Grass,Gen 3,36,2
+346,Cradily,Fossil,Rock,Grass,Gen 3,36,3
+347,Anorith,Fossil,Rock,Bug,Gen 3,36,4
+348,Armaldo,Fossil,Rock,Bug,Gen 3,36,5
+349,Feebas,,Water,,Gen 3,36,6
+350,Milotic,,Water,,Gen 3,36,7
+351,Castform (Normal),,Normal,,Gen 3,36,8
+"351,1",Castform (Rainy),,Water,,Gen 3,36,9
+"351,2",Castform (Snowy),,Ice,,Gen 3,36,10
+"351,3",Castform (Sunny),,Fire,,Gen 3,36,11
+352,Kecleon,,Normal,,Gen 3,36,12
+353,Shuppet,,Ghost,,Gen 3,37,1
+354,Banette,,Ghost,,Gen 3,37,2
+"354,1",Banette (Mega),Mega Evolution,Ghost,,Gen 3,37,3
+355,Duskull,,Ghost,,Gen 3,37,4
+356,Dusclops,,Ghost,,Gen 3,37,5
+357,Tropius,,Grass,Flying,Gen 3,37,6
+358,Chimecho,,Psychic,,Gen 3,37,7
+359,Absol,,Dark,,Gen 3,37,8
+"359,1",Absol (Mega),Mega Evolution,Dark,,Gen 3,37,9
+360,Wynaut,Baby,Psychic,,Gen 3,37,10
+361,Snorunt,,Ice,,Gen 3,37,11
+362,Glalie,,Ice,,Gen 3,37,12
+"362,1",Glalie (Mega),Mega Evolution,Ice,,Gen 3,38,1
+363,Spheal,,Ice,Water,Gen 3,38,2
+364,Sealeo,,Ice,Water,Gen 3,38,3
+365,Walrein,,Ice,Water,Gen 3,38,4
+366,Clamperl,,Water,,Gen 3,38,5
+367,Huntail,,Water,,Gen 3,38,6
+368,Gorebyss,,Water,,Gen 3,38,7
+369,Relicanth,,Water,Rock,Gen 3,38,8
+370,Luvdisc,,Water,,Gen 3,38,9
+371,Bagon,Pseudo Legendary,Dragon,,Gen 3,38,10
+372,Shelgon,Pseudo Legendary,Dragon,,Gen 3,38,11
+373,Salamence,Pseudo Legendary,Dragon,Flying,Gen 3,38,12
+"373,1",Salamence (Mega),"Psuedo Legendary, Mega Evolution",Dragon,Flying,Gen 3,39,1
+374,Beldum,Pseudo Legendary,Steel,Psychic,Gen 3,39,2
+375,Metang,Pseudo Legendary,Steel,Psychic,Gen 3,39,3
+376,Metagross,Pseudo Legendary,Steel,Psychic,Gen 3,39,4
+"376,1",Metagross (Mega),"Psuedo Legendary, Mega Evolution",Steel,Psychic,Gen 3,39,5
+377,Regirock,Sub-Legendary,Rock,,Gen 3,39,6
+378,Regice,Sub-Legendary,Ice,,Gen 3,39,7
+379,Registeel,Sub-Legendary,Steel,,Gen 3,39,8
+380,Latias,Sub-Legendary,Dragon,Psychic,Gen 3,39,9
+"380,1",Latias (Mega),"Legendary, Mega Evolution",Dragon,Psychic,Gen 3,39,10
+381,Latios,Sub-Legendary,Dragon,Psychic,Gen 3,39,11
+"381,1",Latios (Mega),"Legendary, Mega Evolution",Dragon,Psychic,Gen 3,39,12
+382,Kyogre,Legendary,Water,,Gen 3,40,1
+"382,1",Kyogre (Primal),"Legendary, Primal Reversion",Water,,Gen 3,40,2
+383,Groudon,Legendary,Ground,,Gen 3,40,3
+"383,1",Groudon (Primal),"Legendary, Primal Reversion",Ground,Fire,Gen 3,40,4
+384,Rayquaza,Legendary,Dragon,Flying,Gen 3,40,5
+"384,1",Rayquaza,"Legendary, Mega Evolution",Dragon,Flying,Gen 3,40,6
+385,Jirachi,Mythical,Steel,Psychic,Gen 3,40,7
+386,Deoxys (Normal),Mythical,Psychic,,Gen 3,40,8
+"386,1",Deoxys (Attack),Mythical,Psychic,,Gen 4,40,9
+"386,2",Deoxys (Defense),Mythical,Psychic,,Gen 4,40,10
+"386,3",Deoxys (Speed),Mythical,Psychic,,Gen 4,40,11
+387,Turtwig,Starter,Grass,,Gen 4,40,12
+388,Grotle,Starter,Grass,,Gen 4,41,1
+389,Torterra,Starter,Grass,Ground,Gen 4,41,2
+390,Chimchar,Starter,Fire,,Gen 4,41,3
+391,Monferno,Starter,Fire,Fighting,Gen 4,41,4
+392,Infernape,Starter,Fire,Fighting,Gen 4,41,5
+393,Piplup,Starter,Water,,Gen 4,41,6
+394,Prinplup,Starter,Water,,Gen 4,41,7
+395,Empoleon,Starter,Water,Steel,Gen 4,41,8
+396,Starly,,Normal,Flying,Gen 4,41,9
+397,Staravia,,Normal,Flying,Gen 4,41,10
+398,Staraptor,,Normal,Flying,Gen 4,41,11
+399,Bidoof,,Normal,,Gen 4,41,12
+400,Bibarel,,Normal,Water,Gen 4,42,1
+401,Kricketot,,Bug,,Gen 4,42,2
+402,Kricketune,,Bug,,Gen 4,42,3
+403,Shinx,,Electric,,Gen 4,42,4
+404,Luxio,,Electric,,Gen 4,42,5
+405,Luxray,,Electric,,Gen 4,42,6
+406,Budew,Baby,Grass,Poison,Gen 4,42,7
+407,Roserade,,Grass,Poison,Gen 4,42,8
+408,Cranidos,Fossil,Rock,,Gen 4,42,9
+409,Rampardos,Fossil,Rock,,Gen 4,42,10
+410,Shieldon,Fossil,Rock,Steel,Gen 4,42,11
+411,Bastiodon,Fossil,Rock,Steel,Gen 4,42,12
+412,Burmy (Plant),,Bug,,Gen 4,43,1
+"412,1",Burmy (Sandy),,Bug,,Gen 4,43,2
+"412,2",Burmy (Trash),,Bug,,Gen 4,43,3
+413,Wormadam (Plant),,Bug,Grass,Gen 4,43,4
+"413,1",Wormadam (Sandy),,Bug,Ground,Gen 4,43,5
+"413,2",Wormadam (Trash),,Bug,Steel,Gen 4,43,6
+414,Mothim,,Bug,Flying,Gen 4,43,7
+415,Combee,,Bug,Flying,Gen 4,43,8
+416,Vespiquen,,Bug,Flying,Gen 4,43,9
+417,Pachirisu,,Electric,,Gen 4,43,10
+418,Buizel,,Water,,Gen 4,43,11
+419,Floatzel,,Water,,Gen 4,43,12
+420,Cherubi,,Grass,,Gen 4,44,1
+421,Cherrim (Overcast),,Grass,,Gen 4,44,2
+"421,1",Cherrim (Sunshine),,Grass,,Gen 4,44,3
+422,Shellos (East),,Water,,Gen 4,44,4
+"422,1",Shellos (West),,Water,,Gen 4,44,5
+423,Gastrodon (East),,Water,Ground,Gen 4,44,6
+"423,1",Gastrodon (West),,Water,Ground,Gen 4,44,7
+424,Ambipom,,Normal,,Gen 4,44,8
+425,Drifloon,,Ghost,Flying,Gen 4,44,9
+426,Drifblim,,Ghost,Flying,Gen 4,44,10
+427,Buneary,,Normal,,Gen 4,44,11
+428,Lopunny,,Normal,,Gen 4,44,12
+"428,1",Lopunny (Mega),Mega Evolution,Normal,Fighting,Gen 4,45,1
+429,Mismagius,,Ghost,,Gen 4,45,2
+430,Honchkrow,,Dark,Flying,Gen 4,45,3
+431,Glameow,,Normal,,Gen 4,45,4
+432,Purugly,,Normal,,Gen 4,45,5
+433,Chingling,Baby,Psychic,,Gen 4,45,6
+434,Stunky,,Poison,Dark,Gen 4,45,7
+435,Skuntank,,Poison,Dark,Gen 4,45,8
+436,Bronzor,,Steel,Psychic,Gen 4,45,9
+437,Bronzong,,Steel,Psychic,Gen 4,45,10
+438,Bonsly,Baby,Rock,,Gen 4,45,11
+439,Mime Jr.,Baby,Psychic,Fairy,Gen 4,45,12
+440,Happiny,Baby,Normal,,Gen 4,46,1
+441,Chatot,,Normal,Flying,Gen 4,46,2
+442,Spiritomb,,Ghost,Dark,Gen 4,46,3
+443,Gible,Pseudo Legendary,Dragon,Ground,Gen 4,46,4
+444,Gabite,Pseudo Legendary,Dragon,Ground,Gen 4,46,5
+445,Garchomp,Pseudo Legendary,Dragon,Ground,Gen 4,46,6
+"445,1",Garchomp (Mega),"Psuedo Legendary, Mega Evolution",Dragon,Ground,Gen 4,46,7
+446,Munchlax,Baby,Normal,,Gen 4,46,8
+447,Riolu,Baby,Fighting,,Gen 4,46,9
+448,Lucario,,Fighting,Steel,Gen 4,46,10
+"448,1",Lucario (Mega),Mega Evolution,Fighting,Steel,Gen 4,46,11
+449,Hippopotas,,Ground,,Gen 4,46,12
+450,Hippowdon,,Ground,,Gen 4,47,1
+451,Skorupi,,Poison,Bug,Gen 4,47,2
+452,Drapion,,Poison,Dark,Gen 4,47,3
+453,Croagunk,,Poison,Fighting,Gen 4,47,4
+454,Toxicroak,,Poison,Fighting,Gen 4,47,5
+455,Carnivine,,Grass,,Gen 4,47,6
+456,Finneon,,Water,,Gen 4,47,7
+457,Lumineon,,Water,,Gen 4,47,8
+458,Mantyke,Baby,Water,Flying,Gen 4,47,9
+459,Snover,,Grass,Ice,Gen 4,47,10
+460,Abomasnow,,Grass,Ice,Gen 4,47,11
+"460,1",Abomasnow (Mega),Mega Evolution,Grass,Ice,Gen 4,47,12
+461,Weavile,,Dark,Ice,Gen 4,48,1
+462,Magnezone,,Electric,Steel,Gen 4,48,2
+463,Lickilicky,,Normal,,Gen 4,48,3
+464,Rhyperior,,Ground,Rock,Gen 4,48,4
+465,Tangrowth,,Grass,,Gen 4,48,5
+466,Electivire,,Electric,,Gen 4,48,6
+467,Magmortar,,Fire,,Gen 4,48,7
+468,Togekiss,,Fairy,Flying,Gen 4,48,8
+469,Yanmega,,Bug,Flying,Gen 4,48,9
+470,Leafeon,Eeveelution,Grass,,Gen 4,48,10
+471,Glaceon,Eeveelution,Ice,,Gen 4,48,11
+472,Gliscor,,Ground,Flying,Gen 4,48,12
+473,Mamoswine,,Ice,Ground,Gen 4,49,1
+474,Porygon-Z,,Normal,,Gen 4,49,2
+475,Gallade,,Psychic,Fighting,Gen 4,49,3
+"475,1",Gallade (Mega),Mega Evolution,Psychic,Fighting,Gen 4,49,4
+476,Probopass,,Rock,Steel,Gen 4,49,5
+477,Dusknoir,,Ghost,,Gen 4,49,6
+478,Froslass,,Ice,Ghost,Gen 4,49,7
+479,Rotom,,Electric,Ghost,Gen 4,49,8
+"479,1",Rotom (Heat),,Electric,Fire,Gen 4,49,9
+"479,2",Rotom (Wash),,Electric,Water,Gen 4,49,10
+"479,3",Rotom (Frost),,Electric,Ice,Gen 4,49,11
+"479,4",Rotom (Fan),,Electric,Flying,Gen 4,49,12
+"479,5",Rotom (Mow),,Electric,Grass,Gen 4,50,1
+480,Uxie,Sub-Legendary,Psychic,,Gen 4,50,2
+481,Mesprit,Sub-Legendary,Psychic,,Gen 4,50,3
+482,Azelf,Sub-Legendary,Psychic,,Gen 4,50,4
+483,Dialga (Altered),Legendary,Steel,Dragon,Gen 4,50,5
+"483,1",Dialga (Origin),Legendary,Steel,Dragon,Gen 4,50,6
+484,Palkia (Altered),Legendary,Water,Dragon,Gen 4,50,7
+"484,1",Palkia (Origin),Legendary,Water,Dragon,Gen 4,50,8
+485,Heatran,Sub-Legendary,Fire,Steel,Gen 4,50,9
+486,Regigigas,Sub-Legendary,Normal,,Gen 4,50,10
+487,Giratina (Altered),Legendary,Ghost,Dragon,Gen 4,50,11
+"487,1",Giratina (Origin),Legendary,Ghost,Dragon,Gen 4,50,12
+488,Cresselia,Sub-Legendary,Psychic,,Gen 4,51,1
+489,Phione,Mythical,Water,,Gen 4,51,2
+490,Manaphy,Mythical,Water,,Gen 4,51,3
+491,Darkrai,Mythical,Dark,,Gen 4,51,4
+492,Shaymin (Land),Mythical,Grass,,Gen 4,51,5
+"492,1",Shaymin (Sky),Mythical,Grass,Flying,Gen 4,51,6
+493,Arceus,Mythical,Normal,,Gen 4,51,7
+494,Victini,Mythical,Psychic,Fire,Gen 5,51,8
+495,Snivy,Starter,Grass,,Gen 5,51,9
+496,Servine,Starter,Grass,,Gen 5,51,10
+497,Serperior,Starter,Grass,,Gen 5,51,11
+498,Tepig,Starter,Fire,,Gen 5,51,12
+499,Pignite,Starter,Fire,Fighting,Gen 5,52,1
+500,Emboar,Starter,Fire,Fighting,Gen 5,52,2
+501,Oshawott,Starter,Water,,Gen 5,52,3
+502,Dewott,Starter,Water,,Gen 5,52,4
+503,Samurott,Starter,Water,,Gen 5,52,5
+"503,1",Samurott (Hisuian),"Starter, Hisuian Variant",Water,Dark,Gen 5,52,6
+504,Patrat,,Normal,,Gen 5,52,7
+505,Watchog,,Normal,,Gen 5,52,8
+506,Lillipup,,Normal,,Gen 5,52,9
+507,Herdier,,Normal,,Gen 5,52,10
+508,Stoutland,,Normal,,Gen 5,52,11
+509,Purrloin,,Dark,,Gen 5,52,12
+510,Liepard,,Dark,,Gen 5,53,1
+511,Pansage,,Grass,,Gen 5,53,2
+512,Simisage,,Grass,,Gen 5,53,3
+513,Pansear,,Fire,,Gen 5,53,4
+514,Simisear,,Fire,,Gen 5,53,5
+515,Panpour,,Water,,Gen 5,53,6
+516,Simipour,,Water,,Gen 5,53,7
+517,Munna,,Psychic,,Gen 5,53,8
+518,Musharna,,Psychic,,Gen 5,53,9
+519,Pidove,,Normal,Flying,Gen 5,53,10
+520,Tranquill,,Normal,Flying,Gen 5,53,11
+521,Unfezant,,Normal,Flying,Gen 5,53,12
+522,Blitzle,,Electric,,Gen 5,54,1
+523,Zebstrika,,Electric,,Gen 5,54,2
+524,Roggenrola,,Rock,,Gen 5,54,3
+525,Boldore,,Rock,,Gen 5,54,4
+526,Gigalith,,Rock,,Gen 5,54,5
+527,Woobat,,Psychic,Flying,Gen 5,54,6
+528,Swoobat,,Psychic,Flying,Gen 5,54,7
+529,Drilbur,,Ground,,Gen 5,54,8
+530,Excadrill,,Ground,Steel,Gen 5,54,9
+531,Audino,,Normal,,Gen 5,54,10
+"531,1",Audino (Mega),Mega Evolution,Normal,Fairy,Gen 5,54,11
+532,Timburr,,Fighting,,Gen 5,54,12
+533,Gurdurr,,Fighting,,Gen 5,55,1
+534,Conkeldurr,,Fighting,,Gen 5,55,2
+535,Tympole,,Water,,Gen 5,55,3
+536,Palpitoad,,Water,Ground,Gen 5,55,4
+537,Seismitoad,,Water,Ground,Gen 5,55,5
+538,Throh,,Fighting,,Gen 5,55,6
+539,Sawk,,Fighting,,Gen 5,55,7
+540,Sewaddle,,Bug,Grass,Gen 5,55,8
+541,Swadloon,,Bug,Grass,Gen 5,55,9
+542,Leavanny,,Bug,Grass,Gen 5,55,10
+543,Venipede,,Bug,Poison,Gen 5,55,11
+544,Whirlipede,,Bug,Poison,Gen 5,55,12
+545,Scolipede,,Bug,Poison,Gen 5,56,1
+546,Cottonee,,Grass,Fairy,Gen 5,56,2
+547,Whimsicott,,Grass,Fairy,Gen 5,56,3
+548,Petilil,,Grass,,Gen 5,56,4
+549,Lilligant,,Grass,,Gen 5,56,5
+"549,1",Lilligant (Hisuian),Hisuian Form,Grass,Fighting,Gen 5,56,6
+550,Basculin (Red-Striped),,Water,,Gen 5,56,7
+"550,1",Basculin (Blue-STriped),,Water,,Gen 5,56,8
+"550,2",Basculin (Hisuian),Hisuian Form,Water,,Gen 5,56,9
+551,Sandile,,Ground,Dark,Gen 5,56,10
+552,Krokorok,,Ground,Dark,Gen 5,56,11
+553,Krookodile,,Ground,Dark,Gen 5,56,12
+554,Darumaka,,Fire,,Gen 5,57,1
+"554,1",Darumaka (Galarian),Galarian Form,Ice,,Gen 5,57,2
+555,Darmanitan,,Fire,,Gen 5,57,3
+"555,1",Darmanitan (Zen Mode),,Fire,Psychic,Gen 5,57,4
+"555,2",Darmanitan (Galarian),Galarian Form,Ice,,Gen 5,57,5
+"555,3","Darmanitan (Galarian, Zen Mode)",Galarian Form,Ice,Fire,Gen 5,57,6
+556,Maractus,,Grass,,Gen 5,57,7
+557,Dwebble,,Bug,Rock,Gen 5,57,8
+558,Crustle,,Bug,Rock,Gen 5,57,9
+559,Scraggy,,Dark,Fighting,Gen 5,57,10
+560,Scrafty,,Dark,Fighting,Gen 5,57,11
+561,Sigilyph,,Psychic,Flying,Gen 5,57,12
+562,Yamask,,Ghost,,Gen 5,58,1
+"562,1",Yamask (Galarian),Galarian Form,Ground,Ghost,Gen 5,58,2
+563,Cofagrigus,,Ghost,,Gen 5,58,3
+564,Tirtouga,Fossil,Water,Rock,Gen 5,58,4
+565,Carracosta,Fossil,Water,Rock,Gen 5,58,5
+566,Archen,Fossil,Rock,Flying,Gen 5,58,6
+567,Archeops,Fossil,Rock,Flying,Gen 5,58,7
+568,Trubbish,,Poison,,Gen 5,58,8
+569,Garbodor,,Poison,,Gen 5,58,9
+570,Zorua,,Dark,,Gen 5,58,10
+"570,1",Zorua (Hisuian),Hisuian Form,Normal,Ghost,Gen 5,58,11
+571,Zoroark,,Dark,,Gen 5,58,12
+"571,1",Zoroark (Hisuian),Hisuian Form,Normal,Ghost,Gen 5,59,1
+572,Minccino,,Normal,,Gen 5,59,2
+573,Cinccino,,Normal,,Gen 5,59,3
+574,Gothita,,Psychic,,Gen 5,59,4
+575,Gothorita,,Psychic,,Gen 5,59,5
+576,Gothitelle,,Psychic,,Gen 5,59,6
+577,Solosis,,Psychic,,Gen 5,59,7
+578,Duosion,,Psychic,,Gen 5,59,8
+579,Reuniclus,,Psychic,,Gen 5,59,9
+580,Ducklett,,Water,Flying,Gen 5,59,10
+581,Swanna,,Water,Flying,Gen 5,59,11
+582,Vanillite,,Ice,,Gen 5,59,12
+583,Vanillish,,Ice,,Gen 5,60,1
+584,Vanilluxe,,Ice,,Gen 5,60,2
+585,Deerling (Spring),,Normal,Grass,Gen 5,60,3
+"585,1",Deerling (Summer),,Normal,Grass,Gen 5,60,4
+"585,2",Deerling (Autumn),,Normal,Grass,Gen 5,60,5
+"585,3",Deerling (Winter),,Normal,Grass,Gen 5,60,6
+586,Sawsbuck,,Normal,Grass,Gen 5,60,7
+587,Emolga,,Electric,Flying,Gen 5,60,8
+588,Karrablast,,Bug,,Gen 5,60,9
+589,Escavalier,,Bug,Steel,Gen 5,60,10
+590,Foongus,,Grass,Poison,Gen 5,60,11
+591,Amoonguss,,Grass,Poison,Gen 5,60,12
+592,Frillish,,Water,Ghost,Gen 5,1,1
+593,Jellicent,,Water,Ghost,Gen 5,1,2
+594,Alomomola,,Water,,Gen 5,1,3
+595,Joltik,,Bug,Electric,Gen 5,1,4
+596,Galvantula,,Bug,Electric,Gen 5,1,5
+597,Ferroseed,,Grass,Steel,Gen 5,1,6
+598,Ferrothorn,,Grass,Steel,Gen 5,1,7
+599,Klink,,Steel,,Gen 5,1,8
+600,Klang,,Steel,,Gen 5,1,9
+601,Klinklang,,Steel,,Gen 5,2,1
+602,Tynamo,,Electric,,Gen 5,2,2
+603,Eelektrik,,Electric,,Gen 5,2,3
+604,Eelektross,,Electric,,Gen 5,2,4
+605,Elgyem,,Psychic,,Gen 5,2,5
+606,Beheeyem,,Psychic,,Gen 5,2,6
+607,Litwick,,Ghost,Fire,Gen 5,2,7
+608,Lampent,,Ghost,Fire,Gen 5,2,8
+609,Chandelure,,Ghost,Fire,Gen 5,2,9
+610,Axew,,Dragon,,Gen 5,3,1
+611,Fraxure,,Dragon,,Gen 5,3,2
+612,Haxorus,,Dragon,,Gen 5,3,3
+613,Cubchoo,,Ice,,Gen 5,3,4
+614,Beartic,,Ice,,Gen 5,3,5
+615,Cryogonal,,Ice,,Gen 5,3,6
+616,Shelmet,,Bug,,Gen 5,3,7
+617,Accelgor,,Bug,,Gen 5,3,8
+618,Stunfisk,,Ground,Electric,Gen 5,3,9
+"618,1",Stunfisk (Galarian),Galarian Form,Ground,Steel,Gen 5,4,1
+619,Mienfoo,,Fighting,,Gen 5,4,2
+620,Mienshao,,Fighting,,Gen 5,4,3
+621,Druddigon,,Dragon,,Gen 5,4,4
+622,Golett,,Ground,Ghost,Gen 5,4,5
+623,Golurk,,Ground,Ghost,Gen 5,4,6
+624,Pawniard,,Dark,Steel,Gen 5,4,7
+625,Bisharp,,Dark,Steel,Gen 5,4,8
+626,Bouffalant,,Normal,,Gen 5,4,9
+627,Rufflet,,Normal,Flying,Gen 5,5,1
+628,Braviary,,Normal,Flying,Gen 5,5,2
+"628,1",Braviary (Hisuian),Hisuian Form,Psychic,Flying,Gen 5,5,3
+629,Vullaby,,Dark,Flying,Gen 5,5,4
+630,Mandibuzz,,Dark,Flying,Gen 5,5,5
+631,Heatmor,,Fire,,Gen 5,5,6
+632,Durant,,Bug,Steel,Gen 5,5,7
+633,Deino,Pseudo Legendary,Dark,Dragon,Gen 5,5,8
+634,Zweilous,Pseudo Legendary,Dark,Dragon,Gen 5,5,9
+635,Hydreigon,Pseudo Legendary,Dark,Dragon,Gen 5,6,1
+636,Larvesta,,Bug,Fire,Gen 5,6,2
+637,Volcarona,,Bug,Fire,Gen 5,6,3
+638,Cobalion,Sub-Legendary,Steel,Fighting,Gen 5,6,4
+639,Terrakion,Sub-Legendary,Rock,Fighting,Gen 5,6,5
+640,Virizion,Sub-Legendary,Grass,Fighting,Gen 5,6,6
+641,Tornadus (Incarnate),Sub-Legendary,Flying,,Gen 5,6,7
+"641,1",Tornadus (Therian),Sub-Legendary,Flying,,Gen 5,6,8
+642,Thundurus (Incarnate),Sub-Legendary,Electric,Flying,Gen 5,6,9
+"642,1",Thundurus (Therian),Sub-Legendary,Electric,Flying,Gen 5,7,1
+643,Reshiram,Legendary,Dragon,Fire,Gen 5,7,2
+644,Zekrom,Legendary,Dragon,Electric,Gen 5,7,3
+645,Landorus (Incarnate),Sub-Legendary,Ground,Flying,Gen 5,7,4
+"645,1",Landorus (Therian),Sub-Legendary,Ground,Flying,Gen 5,7,5
+646,Kyurem,Legendary,Dragon,Ice,Gen 5,7,6
+"646,1",Kyurem (Black),Legendary,Dragon,Ice,Gen 5,7,7
+"646,2",Kyurem (White),Legendary,Dragon,Ice,Gen 5,7,8
+647,Keldeo,Mythical,Water,Fighting,Gen 5,7,9
+648,Meloetta (Aria),Mythical,Normal,Psychic,Gen 5,8,1
+"648,1",Meloetta (Pirouette),Mythical,Normal,Fighting,Gen 5,8,2
+649,Genesect,Mythical,Bug,Steel,Gen 5,8,3
+650,Chespin,Starter,Grass,,Gen 6,8,4
+651,Quilladin,Starter,Grass,,Gen 6,8,5
+652,Chesnaught,Starter,Grass,Fighting,Gen 6,8,6
+653,Fennekin,Starter,Fire,,Gen 6,8,7
+654,Braixen,Starter,Fire,,Gen 6,8,8
+655,Delphox,Starter,Fire,Psychic,Gen 6,8,9
+656,Froakie,Starter,Water,,Gen 6,9,1
+657,Frogadier,Starter,Water,,Gen 6,9,2
+658,Greninja,Starter,Water,Dark,Gen 6,9,3
+"658,1",Ash-Greninja,,Water,Dark,Gen 6,9,4
+659,Bunnelby,,Normal,,Gen 6,9,5
+660,Diggersby,,Normal,Ground,Gen 6,9,6
+661,Fletchling,,Normal,Flying,Gen 6,9,7
+662,Fletchinder,,Fire,Flying,Gen 6,9,8
+663,Talonflame,,Fire,Flying,Gen 6,9,9
+664,Scatterbug,,Bug,,Gen 6,10,1
+665,Spewpa,,Bug,,Gen 6,10,2
+666,Vivillon (Meadow/Fancy),,Bug,Flying,Gen 6,10,3
+"666,1",Vivillon (Polar/Tundra/Marine),,Bug,Flying,Gen 6,10,4
+"666,2",Vivillon (Continental),,Bug,Flying,Gen 6,10,5
+"666,3",Vivillon (Garden/Savanna/Jungle),,Bug,Flying,Gen 6,10,6
+"666,4",Vivillon (Elegant),,Bug,Flying,Gen 6,10,7
+"666,5",Vivillon (Icy Snow),,Bug,Flying,Gen 6,10,8
+"666,6",Vivillon (Mod/Sun/Ocean/Poke Ball),,Bug,Flying,Gen 6,10,9
+"666,7",Vivillon (HiPl/SS/Arch/Riv),,Bug,Flying,Gen 6,11,1
+"666,8",Vivillon (Monsoon),,Bug,Flying,Gen 6,11,2
+667,Litleo,,Fire,Normal,Gen 6,11,3
+668,Pyroar,,Fire,Normal,Gen 6,11,4
+669,Flabébé,,Fairy,,Gen 6,11,5
+670,Floette,,Fairy,,Gen 6,11,6
+671,Florges,,Fairy,,Gen 6,11,7
+672,Skiddo,,Grass,,Gen 6,11,8
+673,Gogoat,,Grass,,Gen 6,11,9
+674,Pancham,,Fighting,,Gen 6,12,1
+675,Pangoro,,Fighting,Dark,Gen 6,12,2
+676,Furfrou,,Normal,,Gen 6,12,3
+677,Espurr,,Psychic,,Gen 6,12,4
+678,Meowstic (Female),,Psychic,,Gen 6,12,5
+"678,1",Meowstic (Male),,Psychic,,Gen 6,12,6
+679,Honedge,,Steel,Ghost,Gen 6,12,7
+680,Doublade,,Steel,Ghost,Gen 6,12,8
+681,Aegislash (Shield),,Steel,Ghost,Gen 6,12,9
+"681,1",Aegislash (Blade),,Steel,Ghost,Gen 6,13,1
+682,Spritzee,,Fairy,,Gen 6,13,2
+683,Aromatisse,,Fairy,,Gen 6,13,3
+684,Swirlix,,Fairy,,Gen 6,13,4
+685,Slurpuff,,Fairy,,Gen 6,13,5
+686,Inkay,,Dark,Psychic,Gen 6,13,6
+687,Malamar,,Dark,Psychic,Gen 6,13,7
+688,Binacle,,Rock,Water,Gen 6,13,8
+689,Barbaracle,,Rock,Water,Gen 6,13,9
+690,Skrelp,,Poison,Water,Gen 6,14,1
+691,Dragalge,,Poison,Dragon,Gen 6,14,2
+692,Clauncher,,Water,,Gen 6,14,3
+693,Clawitzer,,Water,,Gen 6,14,4
+694,Helioptile,,Electric,Normal,Gen 6,14,5
+695,Heliolisk,,Electric,Normal,Gen 6,14,6
+696,Tyrunt,Fossil,Rock,Dragon,Gen 6,14,7
+697,Tyrantrum,Fossil,Rock,Dragon,Gen 6,14,8
+698,Amaura,Fossil,Rock,Ice,Gen 6,14,9
+699,Aurorus,Fossil,Rock,Ice,Gen 6,15,1
+700,Sylveon,Eeveelution,Fairy,,Gen 6,15,2
+701,Hawlucha,,Fighting,Flying,Gen 6,15,3
+702,Dedenne,,Electric,Fairy,Gen 6,15,4
+703,Carbink,,Rock,Fairy,Gen 6,15,5
+704,Goomy,Pseudo Legendary,Dragon,,Gen 6,15,6
+705,Sliggoo,Pseudo Legendary,Dragon,,Gen 6,15,7
+"705,1",Sliggoo (Hisuian),"Pseudo Legendary, Hisuian Form",Steel,Dragon,Gen 6,15,8
+706,Goodra,Pseudo Legendary,Dragon,,Gen 6,15,9
+"706,1",Goodra (Hisuian),"Pseudo Legendary, Hisuian Form",Steel,Dragon,Gen 6,16,1
+707,Klefki,,Steel,Fairy,Gen 6,16,2
+708,Phantump,,Ghost,Grass,Gen 6,16,3
+709,Trevenant,,Ghost,Grass,Gen 6,16,4
+710,Pumpkaboo (Small),,Ghost,Grass,Gen 6,16,5
+"710,1",Pumpkaboo (Average),,Ghost,Grass,Gen 6,16,6
+"710,2",Pumpkaboo (Large),,Ghost,Grass,Gen 6,16,7
+"710,3",Pumpkaboo (Super Size),,Ghost,Grass,Gen 6,16,8
+711,Gourgeist (Small),,Ghost,Grass,Gen 6,16,9
+"711,1",Gourgeist (Average),,Ghost,Grass,Gen 6,17,1
+"711,2",Gourgeist (Large),,Ghost,Grass,Gen 6,17,2
+"711,3",Gourgeist (Super Size),,Ghost,Grass,Gen 6,17,3
+712,Bergmite,,Ice,,Gen 6,17,4
+713,Avalugg,,Ice,,Gen 6,17,5
+"713,1",Avalugg (Hisuian),Hisuian Form,Ice,Rock,Gen 6,17,6
+714,Noibat,,Flying,Dragon,Gen 6,17,7
+715,Noivern,,Flying,Dragon,Gen 6,17,8
+716,Xerneas,Legendary,Fairy,,Gen 6,17,9
+717,Yveltal,Legendary,Dark,Flying,Gen 6,18,1
+718,Zygarde (10%),Legendary,Dragon,Ground,Gen 6,18,2
+"718,1",Zygarde (50%),Legendary,Dragon,Ground,Gen 6,18,3
+"718,2",Zygarde (Complete),Legendary,Dragon,Ground,Gen 6,18,4
+719,Diancie,Mythical,Rock,Fairy,Gen 6,18,5
+"719,1",Diancie (Mega),"Mythical, Mega Evolution",Rock,Fairy,Gen 6,18,6
+720,Hoopa (Confined),Mythical,Psychic,Ghost,Gen 6,18,7
+"720,1",Hoopa (Unbound),Mythical,Psychic,Dark,Gen 6,18,8
+721,Volcanion,Mythical,Fire,Water,Gen 6,18,9
+722,Rowlet,Starter,Grass,Flying,Gen 7,19,1
+723,Dartrix,Starter,Grass,Flying,Gen 7,19,2
+724,Decidueye,Starter,Grass,Ghost,Gen 7,19,3
+"724,1",Decidueye (Hisuian),"Starter, Hisuian Variant",Grass,Fighting,Gen 7,19,4
+725,Litten,Starter,Fire,,Gen 7,19,5
+726,Torracat,Starter,Fire,,Gen 7,19,6
+727,Incineroar,Starter,Fire,Dark,Gen 7,19,7
+728,Popplio,Starter,Water,,Gen 7,19,8
+729,Brionne,Starter,Water,,Gen 7,19,9
+730,Primarina,Starter,Water,Fairy,Gen 7,20,1
+731,Pikipek,,Normal,Flying,Gen 7,20,2
+732,Trumbeak,,Normal,Flying,Gen 7,20,3
+733,Toucannon,,Normal,Flying,Gen 7,20,4
+734,Yungoos,,Normal,,Gen 7,20,5
+735,Gumshoos,,Normal,,Gen 7,20,6
+736,Grubbin,,Bug,,Gen 7,20,7
+737,Charjabug,,Bug,Electric,Gen 7,20,8
+738,Vikavolt,,Bug,Electric,Gen 7,20,9
+739,Crabrawler,,Fighting,,Gen 7,21,1
+740,Crabominable,,Fighting,Ice,Gen 7,21,2
+741,Oricorio (Baile),,Fire,Flying,Gen 7,21,3
+"741,1",Oricorio (Pa'u),,Psychic,Flying,Gen 7,21,4
+"741,2",Oricorio (Pom-Pom),,Electric,Flying,Gen 7,21,5
+"741,3",Oricorio (Sensu),,Ghost,Flying,Gen 7,21,6
+742,Cutiefly,,Bug,Fairy,Gen 7,21,7
+743,Ribombee,,Bug,Fairy,Gen 7,21,8
+744,Rockruff,,Rock,,Gen 7,21,9
+"744,1",Rockruff (Own Tempo),,Rock,,Gen 7,22,1
+745,Lycanroc (Midday),,Rock,,Gen 7,22,2
+"745,1",Lycanroc (Midnight),,Rock,,Gen 7,22,3
+"745,2",Lycanroc (Dusk),,Rock,,Gen 7,22,4
+746,Wishiwashi (Solo),,Water,,Gen 7,22,5
+"746,1",Wishiwashi (School),,Water,,Gen 7,22,6
+747,Mareanie,,Poison,Water,Gen 7,22,7
+748,Toxapex,,Poison,Water,Gen 7,22,8
+749,Mudbray,,Ground,,Gen 7,22,9
+750,Mudsdale,,Ground,,Gen 7,23,1
+751,Dewpider,,Water,Bug,Gen 7,23,2
+752,Araquanid,,Water,Bug,Gen 7,23,3
+753,Fomantis,,Grass,,Gen 7,23,4
+754,Lurantis,,Grass,,Gen 7,23,5
+755,Morelull,,Grass,Fairy,Gen 7,23,6
+756,Shiinotic,,Grass,Fairy,Gen 7,23,7
+757,Salandit,,Poison,Fire,Gen 7,23,8
+758,Salazzle,,Poison,Fire,Gen 7,23,9
+759,Stufful,,Normal,Fighting,Gen 7,24,1
+760,Bewear,,Normal,Fighting,Gen 7,24,2
+761,Bounsweet,,Grass,,Gen 7,24,3
+762,Steenee,,Grass,,Gen 7,24,4
+763,Tsareena,,Grass,,Gen 7,24,5
+764,Comfey,,Fairy,,Gen 7,24,6
+765,Oranguru,,Normal,Psychic,Gen 7,24,7
+766,Passimian,,Fighting,,Gen 7,24,8
+767,Wimpod,,Bug,Water,Gen 7,24,9
+768,Golisopod,,Bug,Water,Gen 7,25,1
+769,Sandygast,,Ghost,Ground,Gen 7,25,2
+770,Palossand,,Ghost,Ground,Gen 7,25,3
+771,Pyukumuku,,Water,,Gen 7,25,4
+772,Type: Null,Sub-Legendary,Normal,,Gen 7,25,5
+773,Silvally,Sub-Legendary,Normal,,Gen 7,25,6
+774,Minior (Meteor),,Rock,Flying,Gen 7,25,7
+"774,1",Minior (Red Core),,Rock,Flying,Gen 7,25,8
+"774,2",Minior (Orange Core),,Rock,Flying,Gen 7,25,9
+"774,3",Minior (Yellow Core),,Rock,Flying,Gen 7,26,1
+"774,4",Minior (Green Core),,Rock,Flying,Gen 7,26,2
+"774,5",Minior (Blue Core),,Rock,Flying,Gen 7,26,3
+"774,6",Minior (Indigo Core),,Rock,Flying,Gen 7,26,4
+"774,7",Minior (Violet Core),,Rock,Flying,Gen 7,26,5
+775,Komala,,Normal,,Gen 7,26,6
+776,Turtonator,,Fire,Dragon,Gen 7,26,7
+777,Togedemaru,,Electric,Steel,Gen 7,26,8
+778,Mimikyu,,Ghost,Fairy,Gen 7,26,9
+779,Bruxish,,Water,Psychic,Gen 7,27,1
+780,Drampa,,Normal,Dragon,Gen 7,27,2
+781,Dhelmise,,Ghost,Grass,Gen 7,27,3
+782,Jangmo-o,Pseudo Legendary,Dragon,,Gen 7,27,4
+783,Hakamo-o,Pseudo Legendary,Dragon,Fighting,Gen 7,27,5
+784,Kommo-o,Pseudo Legendary,Dragon,Fighting,Gen 7,27,6
+785,Tapu Koko,Sub-Legendary,Electric,Fairy,Gen 7,27,7
+786,Tapu Lele,Sub-Legendary,Psychic,Fairy,Gen 7,27,8
+787,Tapu Bulu,Sub-Legendary,Grass,Fairy,Gen 7,27,9
+788,Tapu Fini,Sub-Legendary,Water,Fairy,Gen 7,28,1
+789,Cosmog,Legendary,Psychic,,Gen 7,28,2
+790,Cosmoem,Legendary,Psychic,,Gen 7,28,3
+791,Solgaleo,Legendary,Psychic,Steel,Gen 7,28,4
+792,Lunala,Legendary,Psychic,Ghost,Gen 7,28,5
+793,Nihilego,Ultra Beast,Rock,Poison,Gen 7,28,6
+794,Buzzwole,Ultra Beast,Bug,Fighting,Gen 7,28,7
+795,Pheromosa,Ultra Beast,Bug,Fighting,Gen 7,28,8
+796,Xurkitree,Ultra Beast,Electric,,Gen 7,28,9
+797,Celesteela,Ultra Beast,Steel,Flying,Gen 7,29,1
+798,Kartana,Ultra Beast,Grass,Steel,Gen 7,29,2
+799,Guzzlord,Ultra Beast,Dark,Dragon,Gen 7,29,3
+800,Necrozma,Legendary,Psychic,,Gen 7,29,4
+"800,1",Necrozma (Dusk Mane),Legendary,Psychic,Steel,Gen 7,29,5
+"800,2",Necrozma (Dawn Wings),Legendary,Psychic,Ghost,Gen 7,29,6
+"800,3",Necrozma (Ultra),"Legendary, Mega Evolution",Psychic,Dragon,Gen 7,29,7
+801,Magearna,Mythical,Steel,Fairy,Gen 7,29,8
+"801,1",Magearna (Original Color),Mythical,Steel,Fairy,Gen 7,29,9
+802,Marshadow,Mythical,Fighting,Ghost,Gen 7,30,1
+803,Poipole,Ultra Beast,Poison,,Gen 7,30,2
+804,Naganadel,Ultra Beast,Poison,Dragon,Gen 7,30,3
+805,Stakataka,Ultra Beast,Rock,Steel,Gen 7,30,4
+806,Blacephalon,Ultra Beast,Fire,Ghost,Gen 7,30,5
+807,Zeraora,Mythical,Electric,,Gen 7,30,6
+808,Meltan,Mythical,Steel,,Gen 7,30,7
+809,Melmetal,Mythical,Steel,,Gen 7,30,8
+810,Grookey,Starter,Grass,,Gen 8,30,9
+811,Thwackey,Starter,Grass,,Gen 8,31,1
+812,Rillaboom,Starter,Grass,,Gen 8,31,2
+813,Scorbunny,Starter,Fire,,Gen 8,31,3
+814,Raboot,Starter,Fire,,Gen 8,31,4
+815,Cinderace,Starter,Fire,,Gen 8,31,5
+816,Sobble,Starter,Water,,Gen 8,31,6
+817,Drizzile,Starter,Water,,Gen 8,31,7
+818,Inteleon,Starter,Water,,Gen 8,31,8
+819,Skwovet,,Normal,,Gen 8,31,9
+820,Greedent,,Normal,,Gen 8,32,1
+821,Rookidee,,Flying,,Gen 8,32,2
+822,Corvisquire,,Flying,,Gen 8,32,3
+823,Corviknight,,Flying,Steel,Gen 8,32,4
+824,Blipbug,,Bug,,Gen 8,32,5
+825,Dottler,,Bug,Psychic,Gen 8,32,6
+826,Orbeetle,,Bug,Psychic,Gen 8,32,7
+827,Nickit,,Dark,,Gen 8,32,8
+828,Thievul,,Dark,,Gen 8,32,9
+829,Gossifleur,,Grass,,Gen 8,33,1
+830,Eldegoss,,Grass,,Gen 8,33,2
+831,Wooloo,,Normal,,Gen 8,33,3
+832,Dubwool,,Normal,,Gen 8,33,4
+833,Chewtle,,Water,,Gen 8,33,5
+834,Drednaw,,Water,Rock,Gen 8,33,6
+835,Yamper,,Electric,,Gen 8,33,7
+836,Boltund,,Electric,,Gen 8,33,8
+837,Rolycoly,,Rock,,Gen 8,33,9
+838,Carkol,,Rock,Fire,Gen 8,34,1
+839,Coalossal,,Rock,Fire,Gen 8,34,2
+840,Applin,,Grass,Dragon,Gen 8,34,3
+841,Flapple,,Grass,Dragon,Gen 8,34,4
+842,Appletun,,Grass,Dragon,Gen 8,34,5
+843,Silicobra,,Ground,,Gen 8,34,6
+844,Sandaconda,,Ground,,Gen 8,34,7
+845,Cramorant,,Flying,Water,Gen 8,34,8
+846,Arrokuda,,Water,,Gen 8,34,9
+847,Barraskewda,,Water,,Gen 8,35,1
+848,Toxel,Baby,Electric,Poison,Gen 8,35,2
+849,Toxtricity (Amped),,Electric,Poison,Gen 8,35,3
+"849,1",Toxtricity (Low Key),,Electric,Poison,Gen 8,35,4
+850,Sizzlipede,,Fire,Bug,Gen 8,35,5
+851,Centiskorch,,Fire,Bug,Gen 8,35,6
+852,Clobbopus,,Fighting,,Gen 8,35,7
+853,Grapploct,,Fighting,,Gen 8,35,8
+854,Sinistea,,Ghost,,Gen 8,35,9
+855,Polteageist,,Ghost,,Gen 8,36,1
+856,Hatenna,,Psychic,,Gen 8,36,2
+857,Hattrem,,Psychic,,Gen 8,36,3
+858,Hatterene,,Psychic,Fairy,Gen 8,36,4
+859,Impidimp,,Dark,Fairy,Gen 8,36,5
+860,Morgrem,,Dark,Fairy,Gen 8,36,6
+861,Grimmsnarl,,Dark,Fairy,Gen 8,36,7
+862,Obstagoon,,Dark,Normal,Gen 8,36,8
+863,Perrserker,,Steel,,Gen 8,36,9
+864,Cursola,,Ghost,,Gen 8,37,1
+865,Sirfetch'd,,Fighting,,Gen 8,37,2
+866,Mr. Rime,,Ice,Psychic,Gen 8,37,3
+867,Runerigus,,Ground,Ghost,Gen 8,37,4
+868,Milcery,,Fairy,,Gen 8,37,5
+869,Alcremie (VaCr/SaCr),,Fairy,,Gen 8,37,6
+"869,1",Alcremie (RuCr),,Fairy,,Gen 8,37,7
+"869,2",Alcremie (MaCr),,Fairy,,Gen 8,37,8
+"869,3",Alcremie (MiCr),,Fairy,,Gen 8,37,9
+"869,4",Alcremie (LeCr/RuSw/RaSw),,Fairy,,Gen 8,38,1
+"869,7",Alcremie (CaSw),,Fairy,,Gen 8,38,2
+870,Falinks,,Fighting,,Gen 8,38,3
+871,Pincurchin,,Electric,,Gen 8,38,4
+872,Snom,,Ice,Bug,Gen 8,38,5
+873,Frosmoth,,Ice,Bug,Gen 8,38,6
+874,Stonjourner,,Rock,,Gen 8,38,7
+875,Eiscue (Ice Face),,Ice,,Gen 8,38,8
+"875,1",Eiscue (No Ice Face),,Ice,,Gen 8,38,9
+876,Indeedee (Male),,Psychic,Normal,Gen 8,39,1
+"876,1",Indeedee (Female),,Psychic,Normal,Gen 8,39,2
+877,Morpeko (Full Belly),,Electric,Dark,Gen 8,39,3
+"877,1",Morpeko (Hangry),,Electric,Dark,Gen 8,39,4
+878,Cufant,,Steel,,Gen 8,39,5
+879,Copperajah,,Steel,,Gen 8,39,6
+880,Dracozolt,Fossil,Electric,Dragon,Gen 8,39,7
+881,Arctozolt,Fossil,Electric,Ice,Gen 8,39,8
+882,Dracovish,Fossil,Water,Dragon,Gen 8,39,9
+883,Arctovish,Fossil,Water,Ice,Gen 8,40,1
+884,Duraludon,,Steel,Dragon,Gen 8,40,2
+885,Dreepy,Pseudo Legendary,Dragon,Ghost,Gen 8,40,3
+886,Drakloak,Pseudo Legendary,Dragon,Ghost,Gen 8,40,4
+887,Dragapult,Pseudo Legendary,Dragon,Ghost,Gen 8,40,5
+888,Zacian (Hero),Legendary,Fairy,,Gen 8,40,6
+"888,1",Zacian (Crowned),Legendary,Fairy,Steel,Gen 8,40,7
+889,Zamazenta (Hero),Legendary,Fighting,,Gen 8,40,8
+"889,1",Zamazenta (Crowned),Legendary,Fighting,Steel,Gen 8,40,9
+890,Eternatus,Legendary,Poison,Dragon,Gen 8,41,1
+891,Kubfu,Sub-Legendary,Fighting,,Gen 8,41,2
+892,Urshifu (Single Strike),Sub-Legendary,Fighting,Dark,Gen 8,41,3
+"892,1",Urshifu (Rapid Strike),Sub-Legendary,Fighting,Water,Gen 8,41,4
+893,Zarude,Mythical,Dark,Grass,Gen 8,41,5
+894,Regieleki,Sub-Legendary,Electric,,Gen 8,41,6
+895,Regidrago,Sub-Legendary,Dragon,,Gen 8,41,7
+896,Glastrier,Sub-Legendary,Ice,,Gen 8,41,8
+897,Spectrier,Sub-Legendary,Ghost,,Gen 8,41,9
+898,Calyrex,Legendary,Psychic,Grass,Gen 8,42,1
+"898,1",Calyrex (Ice Rider),Legendary,Psychic,Ice,Gen 9,42,2
+"898,2",Calyrex (Shadow Rider),Legendary,Psychic,Ghost,Gen 9,42,3
+899,Wyrdeer,,Normal,Psychic,Gen 9,42,4
+900,Kleavor,,Bug,Rock,Gen 9,42,5
+901,Ursaluna,,Ground,Normal,Gen 9,42,6
+902,Basculegion (Male),,Water,Ghost,Gen 9,42,7
+"902,1",Basculegion (Female),,Water,Ghost,Gen 9,42,8
+903,Sneasler,,Fighting,Poison,Gen 9,42,9
+904,Overqwil,,Dark,Poison,Gen 9,43,1
+905,Enamorus (Incarnate),Sub-Legendary,Fairy,Flying,Gen 9,43,2
+"905,1",Enamorus (Therian),Sub-Legendary,Fairy,Flying,Gen 9,43,3
+906,Sprigatito,Starter,Grass,,Gen 9,43,4
+907,Floragato,Starter,Grass,,Gen 9,43,5
+908,Meowscarada,Starter,Grass,Dark,Gen 9,43,6
+909,Fuecoco,Starter,Fire,,Gen 9,43,7
+910,Crocalor,Starter,Fire,,Gen 9,43,8
+911,Skeledirge,Starter,Fire,Ghost,Gen 9,43,9
+912,Quaxly,Starter,Water,,Gen 9,44,1
+913,Quaxwell,Starter,Water,,Gen 9,44,2
+914,Quaquaval,Starter,Water,Fighting,Gen 9,44,3
+915,Lechonk,,Normal,,Gen 9,44,4
+916,Oinkologne (Male),,Normal,,Gen 9,44,5
+"916,1",Oinkologne (Female),,Normal,,Gen 9,44,6
+917,Tarountula,,Bug,,Gen 9,44,7
+918,Spidops,,Bug,,Gen 9,44,8
+919,Nymble,,Bug,,Gen 9,44,9
+920,Lokix,,Bug,Dark,Gen 9,45,1
+921,Pawmi,,Electric,,Gen 9,45,2
+922,Pawmo,,Electric,Fighting,Gen 9,45,3
+923,Pawmot,,Electric,Fighting,Gen 9,45,4
+924,Tandemaus,,Normal,,Gen 9,45,5
+925,Maushold (Family of 4),,Normal,,Gen 9,45,6
+"925,1",Maushold (Family of 3),,Normal,,Gen 9,45,7
+926,Fidough,,Fairy,,Gen 9,45,8
+927,Dachsbun,,Fairy,,Gen 9,45,9
+928,Smoliv,,Grass,Normal,Gen 9,46,1
+929,Dolliv,,Grass,Normal,Gen 9,46,2
+930,Arboliva,,Grass,Normal,Gen 9,46,3
+931,Squawkabilly (Green),,Normal,Flying,Gen 9,46,4
+"931,1",Squawkabilly (Blue),,Normal,Flying,Gen 9,46,5
+"931,2",Squawkabilly (Yellow),,Normal,Flying,Gen 9,46,6
+"931,3",Squawkabilly (White),,Normal,Flying,Gen 9,46,7
+932,Nacli,,Rock,,Gen 9,46,8
+933,Naclstack,,Rock,,Gen 9,46,9
+934,Garganacl,,Rock,,Gen 9,47,1
+935,Charcadet,,Fire,,Gen 9,47,2
+936,Armarouge,,Fire,Psychic,Gen 9,47,3
+937,Ceruledge,,Fire,Ghost,Gen 9,47,4
+938,Tadbulb,,Electric,,Gen 9,47,5
+939,Bellibolt,,Electric,,Gen 9,47,6
+940,Wattrel,,Electric,Flying,Gen 9,47,7
+941,Kilowattrel,,Electric,Flying,Gen 9,47,8
+942,Maschiff,,Dark,,Gen 9,47,9
+943,Mabosstiff,,Dark,,Gen 9,48,1
+944,Shroodle,,Poison,Normal,Gen 9,48,2
+945,Grafaiai,,Poison,Normal,Gen 9,48,3
+946,Bramblin,,Grass,Ghost,Gen 9,48,4
+947,Brambleghast,,Grass,Ghost,Gen 9,48,5
+948,Toedscool,,Ground,Grass,Gen 9,48,6
+949,Toedscruel,,Ground,Grass,Gen 9,48,7
+950,Klawf,,Rock,,Gen 9,48,8
+951,Capsakid,,Grass,,Gen 9,48,9
+952,Scovillain,,Grass,Fire,Gen 9,49,1
+953,Rellor,,Bug,,Gen 9,49,2
+954,Rabsca,,Bug,Psychic,Gen 9,49,3
+955,Flittle,,Psychic,,Gen 9,49,4
+956,Espathra,,Psychic,,Gen 9,49,5
+957,Tinkatink,,Fairy,Steel,Gen 9,49,6
+958,Tinkatuff,,Fairy,Steel,Gen 9,49,7
+959,Tinkaton,,Fairy,Steel,Gen 9,49,8
+960,Wiglett,,Water,,Gen 9,49,9
+961,Wugtrio,,Water,,Gen 9,50,1
+962,Bombirdier,,Flying,Dark,Gen 9,50,2
+963,Finizen,,Water,,Gen 9,50,3
+964,Palafin (Zero),,Water,,Gen 9,50,4
+"964,1",Palafin (Hero),,Water,,Gen 9,50,5
+965,Varoom,,Steel,Poison,Gen 9,50,6
+966,Revavroom,,Steel,Poison,Gen 9,50,7
+967,Cyclizar,,Dragon,Normal,Gen 9,50,8
+968,Orthworm,,Steel,,Gen 9,50,9
+969,Glimmet,,Rock,Poison,Gen 9,51,1
+970,Glimmora,,Rock,Poison,Gen 9,51,2
+971,Greavard,,Ghost,,Gen 9,51,3
+972,Houndstone,,Ghost,,Gen 9,51,4
+973,Flamigo,,Flying,Fighting,Gen 9,51,5
+974,Cetoddle,,Ice,,Gen 9,51,6
+975,Cetitan,,Ice,,Gen 9,51,7
+976,Veluza,,Water,Psychic,Gen 9,51,8
+977,Dondozo,,Water,,Gen 9,51,9
+978,Tatsugiri (Curly),,Dragon,Water,Gen 9,52,1
+"978,1",Tatsugiri (Droopy),,Dragon,Water,Gen 9,52,2
+"978,2",Tatsugiri (Stretchy),,Dragon,Water,Gen 9,52,3
+979,Annihilape,,Fighting,Ghost,Gen 9,52,4
+980,Clodsire,,Poison,Ground,Gen 9,52,5
+981,Farigiraf,,Normal,Psychic,Gen 9,52,6
+982,Dudunsparce (Two-Segment),,Normal,,Gen 9,52,7
+"982,1",Dudunsparce (Three Segment),,Normal,,Gen 9,52,8
+983,Kingambit,,Dark,Steel,Gen 9,52,9
+984,Great Tusk,Paradox Pokemon,Ground,Fighting,Gen 9,53,1
+985,Scream Tail,Paradox Pokemon,Fairy,Psychic,Gen 9,53,2
+986,Brute Bonnet,Paradox Pokemon,Grass,Dark,Gen 9,53,3
+987,Flutter Mane,Paradox Pokemon,Ghost,Fairy,Gen 9,53,4
+988,Slither Wing,Paradox Pokemon,Bug,Fighting,Gen 9,53,5
+989,Sandy Shocks,Paradox Pokemon,Electric,Ground,Gen 9,53,6
+990,Iron Treads,Paradox Pokemon,Ground,Steel,Gen 9,53,7
+991,Iron Bundle,Paradox Pokemon,Ice,Water,Gen 9,53,8
+992,Iron Hands,Paradox Pokemon,Fighting,Electric,Gen 9,53,9
+993,Iron Jugulis,Paradox Pokemon,Dark,Flying,Gen 9,54,1
+994,Iron Moth,Paradox Pokemon,Fire,Poison,Gen 9,54,2
+995,Iron Thorns,Paradox Pokemon,Rock,Electric,Gen 9,54,3
+996,Frigibax,Pseudo Legendary,Dragon,Ice,Gen 9,54,4
+997,Arctibax,Pseudo Legendary,Dragon,Ice,Gen 9,54,5
+998,Baxcalibur,Pseudo Legendary,Dragon,Ice,Gen 9,54,6
+999,Gimmighoul (Chest),,Ghost,,Gen 9,54,7
+"999,1",Gimmighoul (Roaming),,Ghost,,Gen 9,54,8
+1000,Gholdengo,,Steel,Ghost,Gen 9,54,9
+1001,Wo-Chien,Sub-Legendary,Dark,Grass,Gen 9,55,1
+1002,Chien-Pao,Sub-Legendary,Dark,Ice,Gen 9,55,2
+1003,Ting-Lu,Sub-Legendary,Dark,Ground,Gen 9,55,3
+1004,Chi-Yu,Sub-Legendary,Dark,Fire,Gen 9,55,4
+1005,Roaring Moon,Paradox Pokemon,Dragon,Dark,Gen 9,55,5
+1006,Iron Valiant,Paradox Pokemon,Fairy,Fighting,Gen 9,55,6
+1007,Koraidon,Legendary,Fighting,Dragon,Gen 9,55,7
+1008,Miraidon,Legendary,Electric,Dragon,Gen 9,55,8
+1009,Ondulagua,Paradox Pokemon,Water,Dragon,Gen 9,55,9
+1010,Ferroverdor,Paradox Pokemon,Grass,Psychic,Gen 9,56,1
+1011,Dipplin,,Grass,Dragon,Gen 9,56,2
+1012,Poltchageist,,Grass,Ghost,Gen 9,56,3
+1013,Sinistcha,,Grass,Ghost,Gen 9,56,4
+1014,Okidogi,Legendary,Poison,Fighting,Gen 9,56,5
+1015,Munkidori,Legendary,Poison,Psychic,Gen 9,56,6
+1016,Fezandipiti,Legendary,Poison,Fairy,Gen 9,56,7
+"1017,1",Ogerpon (Teal Mask),Legendary,Grass,,Gen 9,56,8
+"1017,2",Ogerpon (Hearthflame Mask),Legendary,Grass,,Gen 9,56,9
+"1017,3",Ogerpon (Cornerstone Mask),Legendary,Grass,,Gen 9,57,1
+"1017,4",Ogerpon (Wellspring Mask),Legendary,Grass,,Gen 9,57,2
+1018,Archaludon,,Steel,Dragon,Gen 9,57,3
+1019,Hydrapple,,Grass,Dragon,Gen 9,57,4
+1020,Flamariete,Paradox Pokemon,Fire,Dragon,Gen 9,57,5
+1021,Electrofuria,Paradox Pokemon,Electric,Dragon,Gen 9,57,6
+1022,Ferromole,Paradox Pokemon,Rock,Psychic,Gen 9,57,7
+1023,Ferrotesta,Paradox Pokemon,Steel,Psychic,Gen 9,57,8
+1024,Terapagos,Legendary,Normal,,Gen 9,57,9
+1025,Pecharunt,Mythical,Poison,Ghost,Gen 9,58,1
