@@ -4,26 +4,13 @@ const FieldValue = firebase.firestore.FieldValue;
 let db;
 
 function initFirebase() {
-    const firebaseConfig = {
-        apiKey: "AIzaSyCYKCwkQexfIujS4_P9Nk7Cp3F4LejEy_4",
-        authDomain: "pokedex-tcg-a61a7.firebaseapp.com",
-        projectId: "pokedex-tcg-a61a7",
-        storageBucket: "pokedex-tcg-a61a7.firebasestorage.app",
-        messagingSenderId: "775456491654",
-        appId: "1:775456491654:web:d7266d0f13a6124ab0a907",
-        measurementId: "G-EDS2EBXRNK"
-    };
-
   firebase.initializeApp(firebaseConfig);
   db = firebase.firestore();
 }
 
 initFirebase();
 
-
-
 // MODULO 2 BUSCAR
-
 
 let lastFoundDocId = null;
 
@@ -55,7 +42,9 @@ async function searchPokemon() {
           ${data.owned ? "✅ Tengo carta" : "❌ No la tengo"}
         </span>
         ${
-          !data.owned ? `<br><button onclick="addCard()">Añadir carta</button>` : ""
+          !data.owned
+            ? `<br><button onclick="addCard()">Añadir carta</button>`
+            : ""
         }
       </div>
     `;
@@ -75,19 +64,21 @@ async function addCard() {
   try {
     // 1. Guardar en Firestore
     await db.collection("pokemons").doc(lastFoundDocId).update({
-      owned: true
+      owned: true,
     });
 
     // 2. Actualizar el contador global
-    await db.collection("stats").doc("global").update({
-      owned: FieldValue.increment(1)
-    });
-
+    await db
+      .collection("stats")
+      .doc("global")
+      .update({
+        owned: FieldValue.increment(1),
+      });
 
     // 3. Mensaje de éxito
     statusDiv.textContent = "✅ Carta añadida correctamente";
 
-    // 👇 AQUÍ VA EL EFECTO VISUAL (PASO 5)
+    // EFECTO VISUAL
     const card = document.querySelector(".card");
     card.classList.add("capture");
 
@@ -102,15 +93,11 @@ async function addCard() {
     setTimeout(() => {
       searchPokemon();
     }, 500);
-
   } catch (err) {
     statusDiv.textContent = "❌ Error: " + err.message;
     console.error(err);
   }
 }
-
-
-
 
 function countPokemons() {
   const countDiv = document.getElementById("count");
@@ -118,7 +105,7 @@ function countPokemons() {
 
   db.collection("pokemons")
     .get()
-    .then(snapshot => {
+    .then((snapshot) => {
       countDiv.innerHTML = `Total: ${snapshot.size} Pokémon`;
     });
 }
@@ -141,7 +128,6 @@ async function loadStats() {
   document.getElementById("progressFill").style.width = pct + "%";
 }
 
-
 loadStats();
 
 async function loadGenStats() {
@@ -149,7 +135,7 @@ async function loadGenStats() {
 
   const gens = {};
 
-  snapshot.forEach(doc => {
+  snapshot.forEach((doc) => {
     const data = doc.data();
     const gen = data.gen || "Desconocida";
 
@@ -177,18 +163,19 @@ async function loadMissing() {
   const div = document.getElementById("missing");
   div.innerHTML = "Cargando...";
 
-  const snapshot = await db.collection("pokemons")
+  const snapshot = await db
+    .collection("pokemons")
     .where("owned", "==", false)
     .get();
 
   // Convertir a array
   const missing = [];
 
-  snapshot.forEach(doc => {
+  snapshot.forEach((doc) => {
     const data = doc.data();
     missing.push({
       name: data.name,
-      dex: data.dex
+      dex: data.dex,
     });
   });
 
@@ -199,7 +186,7 @@ async function loadMissing() {
 
   // Pintar lista con formato bonito
   let html = "<ul>";
-  missing.forEach(p => {
+  missing.forEach((p) => {
     const dexFormatted = p.dex.toString().padStart(3, "0");
     html += `<li>${dexFormatted} - ${p.name}</li>`;
   });
@@ -220,7 +207,7 @@ async function loadTable() {
 
   const pokemons = [];
 
-  snapshot.forEach(doc => {
+  snapshot.forEach((doc) => {
     const data = doc.data();
 
     pokemons.push({
@@ -229,7 +216,7 @@ async function loadTable() {
       name: data.name,
       page: data.binderPage || "-",
       slot: data.binderSlot || "-",
-      owned: data.owned
+      owned: data.owned,
     });
   });
 
@@ -238,7 +225,7 @@ async function loadTable() {
 
   let html = "";
 
-  pokemons.forEach(p => {
+  pokemons.forEach((p) => {
     const dexFormatted = p.dex.toString().padStart(3, "0");
 
     html += `
@@ -265,17 +252,19 @@ async function toggleOwned(docId, currentValue) {
 
   try {
     await db.collection("pokemons").doc(docId).update({
-      owned: !currentValue
+      owned: !currentValue,
     });
 
-    await db.collection("stats").doc("global").update({
-      owned: FieldValue.increment(currentValue ? -1 : 1)
-    });
+    await db
+      .collection("stats")
+      .doc("global")
+      .update({
+        owned: FieldValue.increment(currentValue ? -1 : 1),
+      });
 
     loadStats();
     loadGenStats();
     loadTable();
-
   } catch (err) {
     alert("Error: " + err.message);
   }

@@ -69,4 +69,6 @@ node_modules/
 .dataconnect
 
 # Firebase Admin (CRÍTICO - NO SUBIR JAMÁS)
-serviceAccount.json
+config/serviceAccount.json
+
+config/firebase-config.js
